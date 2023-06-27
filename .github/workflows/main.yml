@@ -40,6 +40,7 @@ jobs:
       - name: Save state
         run: echo "gif_path=${{ steps.snake-gif.outputs.gif_path }}" >> $GITHUB_ENV
 
-      # Imposta l'output
-      - name: Set output
-        run: echo "svg_path=${{ steps.snake-gif.outputs.svg_path }}" >> $GITHUB_ENV
+      - name: Set Environment Variables
+        run: |
+          echo "svg_path=${{ steps.snake-gif.outputs.svg_path }}" >> $GITHUB_ENV
+          echo "::set-env name=SVG_PATH::${{ steps.snake-gif.outputs.svg_path }}"
