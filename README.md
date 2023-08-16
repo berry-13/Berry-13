@@ -5,7 +5,7 @@
 </p>
 
 
-<h1 align="center">Hi, I'm Berry, a 14-year-old AI enthusiast.</h1>
+<h1 align="center">Hi, I'm Berry, a 15-year-old AI enthusiast.</h1>
 
 <p align="center">
   Game Developer 👾 | Learner 👨‍💻 | Gamer 🎮 | big AI fan | Italy 🇮🇹
