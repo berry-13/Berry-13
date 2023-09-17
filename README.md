@@ -42,5 +42,5 @@
 </p>
 
 <div align="center">
-  <img alt="snake eating my contribution" src="https://github.com/Berry-13/Berry-13/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution" src="https://github.com/Berry-13/Berry-13/blob/output/github-user-contribution.svg">
 </div>
