@@ -41,10 +41,6 @@
   </a>
 </p>
 
-
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/Berry-13/Berry-13/blob/output/github-contribution-grid-snake.svg">
-  <br>
-  <br>
-  <br>
 </div>
