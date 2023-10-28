@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-  🌱 I'm constantly learning and improving my skills in game development and artificial intelligence. I'm always seeking new challenges and growth opportunities.
+  🌱 I'm costantly learning and improving my skills in web development and artificial intelligence. I'm always seeking new challenges and growth opportunities.
   <br>
-  💡 I'm passionate about creating engaging and innovative interactive experiences by combining my love for games with my programming knowledge.
+  👨‍💻 Currently, I'm working on [LibreChat](https://github.com/danny-avila/LibreChat)
   <br>
 </p>
 
