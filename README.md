@@ -14,7 +14,7 @@
 <p align="center">
   🌱 I'm costantly learning and improving my skills in web development and artificial intelligence. I'm always seeking new challenges and growth opportunities.
   <br>
-  👨‍💻 Currently, I'm working on [LibreChat](https://github.com/danny-avila/LibreChat)
+  👨‍💻 Currently, I'm working on https://github.com/danny-avila/LibreChat
   <br>
 </p>
 
