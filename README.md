@@ -25,7 +25,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-  <a href="https://twitter.com/@marcobe87547265">
+  <a href="https://twitter.com/@Berry13000">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <a href="https://discordapp.com/users/777604723435896843">
