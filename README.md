@@ -37,7 +37,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vscode,unreal,cloudflare,docker,arduino,raspberrypi,bash,blender,gcp,git,nginx,pytorch" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vscode,unreal,cloudflare,mongodb,firebase,docker,discord,arduino,raspberrypi,linux,bash,nextjs,blender,discord,gcp,git,nginx,pytorch" />
   </a>
 </p>
 
