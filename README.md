@@ -5,14 +5,14 @@
 </p>
 
 
-<h1 align="center">Hi, I'm Berry, a 15-year-old AI enthusiast.</h1>
+<h1 align="center">Hi, I'm Berry, a 15-year-old AI enthusiast</h1>
 
 <p align="center">
   Developer ⚙️ | Student 👨‍💻 | AI fan | Italy 🇮🇹
 </p>
 
 <p align="center">
-  🌱 I'm costantly learning and improving my skills in web development and artificial intelligence. I'm always seeking new challenges and growth opportunities.
+  🌱 I'm costantly learning and improving my skills in web development and artificial intelligence. I'm always seeking new challenges and growth opportunities
   <br>
   👨‍💻 Currently, I'm working on https://github.com/danny-avila/LibreChat
   <br>
