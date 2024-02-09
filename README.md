@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Berry, a 15-year-old AI enthusiast</h1>
 
 <p align="center">
-  Developer ⚙️ | Student 👨‍💻 | AI fan | Italy 🇮🇹
+  Developer ⚙️ | Student 👨‍💻 | AI fan 🤖 | Italy 🇮🇹
 </p>
 
 <p align="center">
