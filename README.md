@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  ✉️ Feel free to reach out to me at info@berrystatus.com. I'd be happy to hear from you!
+  ✉️ Feel free to reach out to me at me@berrystatus.com. I'd be happy to hear from you!
 </p>
 
 <h3 align="center">Connect with me:</h3>
